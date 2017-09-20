@@ -1,0 +1,19 @@
+module.exports = {
+  skills:[
+  {
+    "id":1,
+    "name":"Javascript",
+    "experience":"intermediate"
+  },
+  {
+    "id":2,
+    "name":"C",
+    "experience":"beginner"
+  },
+  {
+    "id":3,
+    "name":"Ruby",
+    "experience":"beginner"
+  }
+]
+}
